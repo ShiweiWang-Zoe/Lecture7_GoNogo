@@ -1,2 +1,3 @@
 # Lecture7_GoNogo
-Lecture7 assignment GoNogo adjusted code and necessary files to run it
+This repository is the Lecture7 assignment, which inlcudes a GoNogo code and necessary files to run it.
+The GoNogo code creates a PyschoPy experiment that aims to assess?
